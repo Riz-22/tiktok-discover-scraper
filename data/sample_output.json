@@ -1,0 +1,60 @@
+[
+  {
+    "id": "7328225833821244715",
+    "text": "Waking up to this sunrise view was a DREAM ✨🇹🇭 📍 Samet Nangshe Boutique #thailand #thailandtravel #luxuryhotels #luxurytravel #bucketlist #traveltiktok",
+    "createTime": 1706235571,
+    "createTimeISO": "2024-01-26T06:19:31+00:00",
+    "isAd": false,
+    "authorMeta": {
+      "id": "hillarybowles",
+      "name": "hillarybowles",
+      "nickname": "Hillary",
+      "followers": 44900,
+      "following": 120,
+      "likes": 4100000,
+      "videos": 325
+    },
+    "musicMeta": {
+      "musicId": "7328225833821244715_music",
+      "musicName": "original sound",
+      "musicAuthor": "HUGEL",
+      "coverThumb": "https://example.com/music_cover_thumb.jpg",
+      "coverMedium": "https://example.com/music_cover_medium.jpg",
+      "coverLarge": "https://example.com/music_cover_large.jpg"
+    },
+    "webVideoUrl": "https://www.tiktok.com/@hillarybowles/video/7328225833821244715",
+    "mediaUrls": [
+      "https://example.com/video_play.mp4",
+      "https://example.com/video_download.mp4"
+    ],
+    "videoMeta": {
+      "width": 1080,
+      "height": 1920,
+      "duration": 32,
+      "ratio": "1080p",
+      "format": "mp4"
+    },
+    "diggCount": 0,
+    "shareCount": 7254,
+    "playCount": 1100000,
+    "collectCount": 0,
+    "commentCount": 251,
+    "hashtags": [
+      "thailand",
+      "thailandtravel",
+      "luxuryhotels",
+      "luxurytravel",
+      "bucketlist",
+      "traveltiktok"
+    ],
+    "discoveryInfo": {
+      "source": "discover",
+      "sourceHashtag": "thailandtravel",
+      "breadcrumb": [
+        "Travel",
+        "Luxury",
+        "Thailand"
+      ]
+    }
+  }
+]
